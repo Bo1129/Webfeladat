@@ -43,3 +43,9 @@ ul {
 .teller:hover{
   color: red;
 }
+
+#teller_kep{
+  float: right;
+  width: 260px;
+  margin-left: 20px;
+}
