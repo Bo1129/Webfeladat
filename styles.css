@@ -49,3 +49,15 @@ ul {
   width: 260px;
   margin-left: 20px;
 }
+
+td{
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  align-content: center;
+}
+
+th{
+  color: white;
+  background-color: gray;
+  align-content: center;
+}
